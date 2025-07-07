@@ -38,7 +38,7 @@ Plug 'moll/vim-bbye'
 
 call plug#end()
 
-let g:NERDTreeWinSize=10   
+let g:NERDTreeWinSize=20  
 
 let g:vimtex_view_general_viewer = 'Okular'
 let g:vimtex_view_general_options = '--unique file:@pdf\#src:@line@tex'
